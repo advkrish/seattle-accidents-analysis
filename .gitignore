@@ -1,1 +1,6 @@
 Collisions.csv
+sea_accidents_test.csv
+sea_accidents.csv
+# this one just ignores all csv files
+*.csv
+
