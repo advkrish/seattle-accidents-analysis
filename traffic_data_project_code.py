@@ -9,7 +9,7 @@ def sort(lists):
         return lists
 
 def plot_data(y):
-    data_file_path ="/Users/advikk/Documents/sea_accidents.csv"
+    data_file_path ="/Users/advikk/Desktop/VS Code/sea_accidents.csv"
     values = []
     
     with open(data_file_path, newline='') as csvfile:
